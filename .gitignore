@@ -1,0 +1,6 @@
+.env
+.idea
+.dp3.7.3
+*.sqlite3
+*pyc
+__pycache__
